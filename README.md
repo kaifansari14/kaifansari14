@@ -54,7 +54,7 @@
 ---
 
 <div align="right">
-<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Programming%20Languages&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=9,18,21&text=Programming%20Languages&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@
 <br>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Frontend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=9,18,21&text=Frontend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -123,7 +123,7 @@
 <br>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Backend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=9,18,21&text=Backend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -153,7 +153,7 @@
 <br>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Databases&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=9,18,21&text=Databases&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -212,7 +212,7 @@
 
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Dev%20tools&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=9,18,21&text=Dev%20tools&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
 </div>
 
 
