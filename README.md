@@ -1,24 +1,271 @@
-<h1 align="center">Hi 👋, I'm Kaif Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifansari14&label=Profile%20views&color=0e75b6&style=flat" alt="kaifansari14" /> </p>
+  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,21&height=180&section=header&text=Khaja%20kaif%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaifansari14" alt="kaifansari14" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=1000&color=1F8EF7&center=true&width=435&lines=Exploring+Tech" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/khaja_ansa89476" target="blank"><img src="https://img.shields.io/twitter/follow/khaja_ansa89476?logo=twitter&style=for-the-badge" alt="khaja_ansa89476" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khaja_ansa89476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaja_ansa89476" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/.com/in/khaja-kaif-ansari-8194a533b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=".com/in/khaja-kaif-ansari-8194a533b/" height="30" width="40" /></a>
-<a href="https://instagram.com/_kiing007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kiing007" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTc0M2htaGd1aWZtYmI3YXZpOWV4ODc5MnQ3Z3JqMTZ0M3E3ZWxqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Fun gif" width="700" height="500" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Profile Badges -->
+<p>
+    <img src="https://komarev.com/ghpvc/?username=kaifansari14&color=1F8EF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <!-- <a href="https://github.com/kaifansari14?tab=followers">
+      <img src="https://img.shields.io/github/followers/kaifansari14?label=Followers&style=for-the-badge&color=1F8EF7&labelColor=000000" alt="GitHub Followers" />
+    </a> -->
+    <!-- <img src="https://img.shields.io/github/stars/kaifansari14?label=Stars&style=for-the-badge&color=1F8EF7&labelColor=000000" alt="GitHub Stars" /> -->
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaifansari14&show_icons=true&locale=en&layout=compact" alt="kaifansari14" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaifansari14&show_icons=true&locale=en" alt="kaifansari14" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaifansari14&" alt="kaifansari14" /></p>
+## About me
+
+- Exploring the world of MERN Stack
+- Currently mastering React
+- Building backend logic is my core skill
+
+---
+
+## 📊GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaifansari14&show_icons=true&count_private=true&hide_border=true&title_color=1F8EF7&icon_color=00FFBF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifansari14&layout=compact&hide_border=true&title_color=1F8EF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=kaifansari14&theme=shadow-blue&border_radius=80&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
+
+<br />
+
+## 📈Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaifansari14&bg_color=0d1117&color=1F8EF7&line=1F8EF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%"/>
+</p>
+
+---
+
+<div align="right">
+<img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Programming%20Languages&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+</div>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height:"65" /> 
+    <br><b>C++</b>
+  </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><b>C</b>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Frontend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+</div>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><b>React</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><b>Tailwind</b>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Backend%20Development&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+</div>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><b>Express</b>
+</td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="Express" />
+<br><b>NPM</b>
+</td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="Express" />
+<br><b>PNPM</b>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Databases&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+</div>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br><b>Supabase</b>
+</td>
+  <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br><b>Prisma</b>
+</td>
+<!-- <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><b>Firebase</b>
+</td>
+<td align="center" width="96">
+<img src="https://neon.tech/brand/neon-logo-dark-color.svg" width="48" height="48" alt="Neon" />
+<br><b>Neon DB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="D1" />
+<br><b>D1</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aurora" />
+<br><b>Aurora</b>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" width="48" height="48" alt="Drizzle" />
+<br><b>Drizzle</b>
+</td> -->
+</tr>
+</table>
+</div>
+
+<br>
+
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=70&color=gradient&customColorList=2,18,22&text=Dev%20tools&fontSize=30&rotate=5&fontAlignY=32&fontAlign=65&animation=fadeIn" />
+</div>
+
+
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><b>Postman</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><b>Figma</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+<br><b>Notion</b>
+</td>
+</tr>
+</table>
+<br/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://github.com/kaifansari14">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- <a href="https://linkedin.com/in/malik-fouzan-khan-a76183268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  .
+  <a href="mailto:khajakaifansari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- <a href="https://mfk-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FFBF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+  </a> -->
+</div>
+
+
+<div align="center">
+
+  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,22&height=120&section=footer" width="100%"/>
+
+</div>
