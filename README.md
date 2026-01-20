@@ -266,6 +266,6 @@
 <div align="center">
 
   <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,22&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,21&height=120&section=footer" width="100%"/>
 
 </div>
